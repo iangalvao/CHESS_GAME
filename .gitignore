@@ -1,0 +1,29 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment files
+.env
+.vscode/
+
+# Dependency files
+*.egg-info/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Stockfish binary (update if using a specific path)
+stockfish/
+
+# Test coverage and reporting
+.coverage
+*.cov
+htmlcov/
+
+# Virtual environment
+.venv/
+**PROJECT_CHESS*
